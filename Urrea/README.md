@@ -27,5 +27,5 @@ Este método fue creado por el científico británico Charles Antony Richard Hoa
 > información obtenida de <http://cidecame.uaeh.edu.mx/lcc/mapa/PROYECTO/libro9/mtodo_quick_sort.html>
 >
 > Ejemplo:
-> ![](quicksort.jpeg)
+> ![](quicksort.PNG)
 
