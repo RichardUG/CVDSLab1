@@ -24,5 +24,8 @@ Quicksort es un algoritmo basado en la técnica de divide y vencerás, que permi
 Quicksort es actualmente el más eficiente y veloz de los métodos de ordenación interna.\
 Este método fue creado por el científico británico Charles Antony Richard Hoare, tambien conocido como Tony Hoare en 1960, su algoritmo Quicksort es el algoritmo de ordenamiento más ampliamente utilizado en el mundo.
 >
->información obtenida de <http://cidecame.uaeh.edu.mx/lcc/mapa/PROYECTO/libro9/mtodo_quick_sort.html>
+> información obtenida de <http://cidecame.uaeh.edu.mx/lcc/mapa/PROYECTO/libro9/mtodo_quick_sort.html>
+>
+> Ejemplo:
+> ![](quicksort.jpeg)
 
