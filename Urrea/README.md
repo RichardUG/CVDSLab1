@@ -5,10 +5,10 @@
 > * estudiante de ingeniera de sistemas
 
 ## Información del semestre
-> **Semestre actual:**
+> **_Semestre actual:_**
 >> * Octavo 
 >
-> **Pensum actual:**
+> **_Pensum actual:_**
 >> * CVDS
 >> * AUPN
 >> * RECO
