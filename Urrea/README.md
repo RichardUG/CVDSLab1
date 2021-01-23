@@ -7,7 +7,7 @@
 ## Información del semestre
 > **Semestre actual:**
 >> * Octavo 
-
+>
 > **Pensum actual:**
 >> * CVDS
 >> * AUPN
