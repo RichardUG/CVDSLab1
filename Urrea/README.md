@@ -29,9 +29,9 @@ Este método fue creado por el científico británico Charles Antony Richard Hoa
 > Ejemplo:
 >> ![](quicksort.PNG)
 >
-> **IMPLEMENTACION EN PYTHON**
-> ~~~
->>    def quicksort (x):
+**IMPLEMENTACION EN PYTHON**
+~~~
+    def quicksort (x):
         if len(x)==1 or len(x)==0:
             return x
         else:
