@@ -1,2 +1,4 @@
 # PARTE II. - INTRODUCCIÓN GENERAL GIT
-## Richard Santiago Urrea Garcia
+## Información personal
+### >Richard Santiago Urrea Garcia
+### >19 años
