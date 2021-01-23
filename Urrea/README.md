@@ -3,7 +3,7 @@
 > * Richard Santiago Urrea Garcia
 > * 19 años
 > * estudiante de ingeniera de sistemas
-> ![](perfil.jpeg)
+> ![](foto.jpeg)
 
 ## _Información del semestre_
 > **Semestre actual:**
