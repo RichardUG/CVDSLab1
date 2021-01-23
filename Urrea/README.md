@@ -52,7 +52,7 @@ Este método fue creado por el científico británico Charles Antony Richard Hoa
 
 # PARTE III. - GIT BRANCHING
 ## Ejercicios "Principal"
-> ![](.PNG)
+> ![](principal.PNG)
 
 ## Ejercicios "Remota"
-> ![](.PNG)
+> ![](Remota.PNG)
