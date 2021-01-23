@@ -30,7 +30,8 @@ Este método fue creado por el científico británico Charles Antony Richard Hoa
 >> ![](quicksort.PNG)
 >
 > **IMPLEMENTACION EN PYTHON**
-> ~~~def quicksort (x):
+> ~~~
+    def quicksort (x):
     if len(x)==1 or len(x)==0:
         return x
     else:
@@ -46,6 +47,7 @@ Este método fue creado por el científico británico Charles Antony Richard Hoa
         first_part.append(x[i])
     print(x)
 alist = [ 54 , 26 , 93 , 17 , 77 , 31 , 44 , 55 , 20 ]
-print(quicksort(alist))~~~
+print(quicksort(alist))
+~~~
 
 
