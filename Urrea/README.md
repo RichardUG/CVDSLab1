@@ -1,8 +1,8 @@
 # PARTE II. - INTRODUCCIÓN GENERAL GIT
 ## _Información personal_
-> * Richard Santiago Urrea Garcia
-> * 19 años
-> * estudiante de ingeniera de sistemas
+> 1. Richard Santiago Urrea Garcia
+> 2. 19 años
+> 3. estudiante de ingeniera de sistemas
 >
 > ![](foto.jpeg)
 
