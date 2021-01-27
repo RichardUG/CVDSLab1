@@ -33,6 +33,11 @@
 
 ## InsertionSort
  > La clasificación por inserción es un algoritmo de clasificación simple que funciona de manera similar a la forma en que clasifica las cartas de juego en sus manos. La matriz se divide virtualmente en una parte ordenada y otra sin clasificar. Los valores de la parte sin clasificar se seleccionan y colocan en la posición correcta en la parte clasificada.
+>>>>>> **Algoritmo**
+>>Para ordenar una matriz de tamaño n en orden ascendente:
+>>1. Itere de arr [1] a arr [n] sobre la matriz.
+>>2. Compare el elemento actual (clave) con su predecesor.
+>>3. Si el elemento clave es más pequeño que su predecesor, compárelo con los elementos anteriores. Mueva los elementos mayores una posición hacia arriba para dejar espacio para el elemento intercambiado.
  
  > **Informaciòn de:** <https://www.geeksforgeeks.org/insertion-sort/>
 
