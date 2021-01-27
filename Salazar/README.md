@@ -5,5 +5,5 @@
 >* Fecha de nacimiento: 25/07/2020
 >* RH: A+
 >
-> ![](yo.jpeg)
+> ![](yo.jpg)
 
