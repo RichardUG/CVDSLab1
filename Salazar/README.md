@@ -32,9 +32,11 @@
 >> 5. FCFI
 
 ## InsertionSort
+ > La clasificación por inserción es un algoritmo de clasificación simple que funciona de manera similar a la forma en que clasifica las cartas de juego en sus manos. La matriz se divide virtualmente en una parte ordenada y otra sin clasificar. Los valores de la parte sin clasificar se seleccionan y colocan en la posición correcta en la parte clasificada.
+ 
+ > **Informaciòn de:** <https://www.geeksforgeeks.org/insertion-sort/>
 
-
->> *implementaciòn en Python* 
+>> **Implementaciòn en Python** 
 ~~~
 from sys import stdin
 def insertionSort(alist):
