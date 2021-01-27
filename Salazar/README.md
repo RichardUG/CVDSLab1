@@ -31,4 +31,28 @@
 >> 5. ALM1
 >> 5. FCFI
 
-##
+## InsertionSort
+
+
+>> *implementaciòn en Python* 
+~~~
+from sys import stdin
+def insertionSort(alist):
+
+    for index in range(1,len(alist)):
+        currentvalue = alist[index]
+        position = index
+
+        while position>0 and alist[position-1]>currentvalue:
+            alist[position]=alist[position-1]
+            position = position-1
+
+        alist[position]=currentvalue
+
+    return alist
+def main():
+    lis=[int(x) for x in stdin.readline().strip().split()]
+    print(insertionSort(lis))
+main()
+
+~~~
